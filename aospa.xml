@@ -22,6 +22,7 @@
   <project path="external/dtc" name="oplus-8650-clo/android_external_dtc" remote="github" revision="calcite" />
   <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" remote="aosp" revision="main-kernel-2025" />
   <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" revision="lineage-24.0" remote="github" />
+  <project path="prebuilts/clang/kernel/linux-x86/clang-r416183b" name="LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b" clone-depth="1" revision="lineage-20.0" remote="github" />
 
   <!-- Bootable -->
   <remove-project name="platform/bootable/recovery" />
