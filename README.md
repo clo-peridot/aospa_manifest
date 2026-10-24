@@ -44,7 +44,7 @@ Initialize the manifest repository:
 > Configure your real name and email address in Git before you initialize Repo if you plan to submit patches.
 
 ```bash
-repo init -u https://github.com/AOSPA/manifest -b calcite
+repo init -u git@github.com:clo-peridot/aospa_manifest.git -b calcite
 ```
 
 ### Download the source tree
