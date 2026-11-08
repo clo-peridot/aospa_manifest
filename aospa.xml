@@ -76,7 +76,7 @@
   <project path="kernel/configs" name="AOSPA/android_kernel_configs" remote="aospa" />
 
   <!-- Manifest -->
-  <project path="manifest" name="clo-peridot/manifest" remote="aospa" />
+  <project path="manifest" name="clo-peridot/aospa_manifest" remote="aospa" />
 
   <!-- Packages (Custom) -->
   <project path="packages/apps/Aperture" name="LineageOS/android_packages_apps_Aperture" revision="lineage-23.2" remote="github" />
