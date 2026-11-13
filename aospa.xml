@@ -112,7 +112,7 @@
   <remove-project name="platform/system/bpf" />
   <project path="system/bpf" name="AOSPA/android_system_bpf" remote="aospa" />
   <remove-project name="platform/system/core" />
-  <project path="system/core" name="AOSPA/android_system_core" remote="aospa" />
+  <project path="system/core" name="clo-peridot/android_system_core" remote="aospa" />
   <remove-project name="platform/system/fs/fs_mgr" />
   <project path="system/fs/fs_mgr" name="AOSPA/android_system_fs_fs_mgr" remote="aospa" />
   <remove-project name="platform/system/update_engine" />
