@@ -114,7 +114,7 @@
   <remove-project name="platform/system/core" />
   <project path="system/core" name="clo-peridot/android_system_core" remote="aospa" />
   <remove-project name="platform/system/fs/fs_mgr" />
-  <project path="system/fs/fs_mgr" name="AOSPA/android_system_fs_fs_mgr" remote="aospa" />
+  <project path="system/fs/fs_mgr" name="clo-peridot/android_system_fs_fs_mgr" remote="aospa" />
   <remove-project name="platform/system/update_engine" />
   <project path="system/update_engine" name="AOSPA/android_system_update_engine" remote="aospa" />
   <remove-project name="platform/system/memory/libion" />
@@ -133,7 +133,7 @@
   <project path="vendor/aospa/translations" name="AOSPA/android_vendor_aospa_translations" remote="aospa" />
   <project path="vendor/google/gms" name="android_vendor_google_gms" remote="blobs" clone-depth="1" />
   <project path="vendor/google/pixel" name="android_vendor_google_pixel" remote="blobs" clone-depth="1" />
-  <project path="vendor/qcom/common" name="proprietary_vendor_qcom_common" remote="blobs" />
+  <project path="vendor/qcom/common" name="proprietary_vendor_qcom_common" remote="clo-peridot" />
   <project path="vendor/qcom/sdclang" name="proprietary_vendor_qcom_sdclang" remote="blobs" revision="disabled" />
 
   <!-- Vendor (QCOM QSSI) -->
